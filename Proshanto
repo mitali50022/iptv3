@@ -1,6 +1,11 @@
+
+
+#EXTINF:-1 tvg-logo="" group-title="* All 21042021",Desh TV
+PT1BTzFOVGJ1WUhkb05YWms5eWNzaDJMeElqTHpNVE11VURNeTR5TXdFekx2b0RjMFJIYQ==21042021
 #EXTINF:-1 tvg-logo="http://www.sristytv.com/uploads/logo_image/logo_43.png" group-title="* All 20032021",সৃষ্টি টিভি
 http://tempe.jagobd.com:1932/iptv/sristytv.stream/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="" group-title="* All 21042021",Thrill (480p)
+PT1BTzFOVGJ1Z1haazVXYXZRek16OXljdmNYWjVJM2R4OVNNMTR5TTQ0aU55RWpMMVF6THZvRGMwUkhh
 #EXTINF:-1 tvg-id="Flix.in" tvg-name="&Flix" tvg-country="IN" tvg-language="English" tvg-logo="https://static.epg.best/in/AndFlix.in.png" group-title="Movies",&Flix
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 
